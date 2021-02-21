@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2016 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string-array name="places">
+        <item>Angkot 01 </item>
+        <item>Angkot 02 </item>
+        <item>Angkot 03 </item>
+        <item>Angkot 04 </item>
+        <item>Angkot 05 </item>
+        <item>Angkot 06 </item>
+        <item>Angkot 07 </item>
+        <item>Angkot 08 </item>
+        <item>Angkot 09 </item>
+        <item>Angkot 10 </item>
+
+        <item>Angkot 11 A</item>
+        <item>Angkot 11 B </item>
+        <item>Angkot 12 </item>
+        <item>Angkot 13 </item>
+        <item>Angkot 14 </item>
+        <item>Angkot 15 </item>
+        <item>Angkot 16 </item>
+        <item>Angkot 17 </item>
+        <item>Angkot 18 </item>
+        <item>Angkot 19 A </item>
+
+        <item>Angkot 19 B </item>
+        <item>Angkot 20 </item>
+        <item>Angkot 21 </item>
+        <item>Angkot 22 A </item>
+        <item>Angkot 22 B </item>
+        <item>Angkot 23 </item>
+        <item>Angkot 24 </item>
+        <item>Angkot 25 </item>
+        <item>Angkot 26 </item>
+        <item>Angkot 27 </item>
+
+        <item>Angkot 28 </item>
+        <item>Angkot 29 </item>
+        <item>Angkot 30 A </item>
+        <item>Angkot 30 B </item>
+        <item>Angkot 31 </item>
+        <item>Angkot 32 </item>
+        <item>Angkot 33 A </item>
+        <item>Angkot 33 B </item>
+        <item>Angkot 34 </item>
+        <item>Angkot 35 A </item>
+
+        <item>Angkot 35 B </item>
+
+    </string-array>
+    <string-array name="place_desc">
+        <item>Abdul muis(Kebon Kelapa) - Cicaheum via Binong</item>
+        <item>Abdul muis(Kebon Kelapa) - Ledeng </item>
+        <item>Abdul muis(Kebon Kelapa) - Elang </item>
+        <item>Cicaheum - Ledeng </item>
+        <item>Cicaheum - Ciroyom </item>
+        <item>Cicaheum - Ciwastra - Derwati </item>
+        <item>Ciwastra - Ciroyom </item>
+        <item>Cicaheum - Leuwipanjang </item>
+        <item>Stasiun Hall - Dago </item>
+        <item>Stasiun Hall - Sadang Serang </item>
+
+        <item>Stasiun Hall - Ciumbeuleuit via Eyckman</item>
+        <item>Stasiun Hall - Ciumbeuleuit via Cihampelas</item>
+        <item>Stasiun Hall - Gede Bage</item>
+        <item>Stasiun Hall - Sarijadi</item>
+        <item>Stasiun Hall - Gunung Batu (Lintas Husein)</item>
+        <item>Margahayu Raya - Ledeng</item>
+        <item>Dago - Riung Bandung</item>
+        <item>Dago - Pasar Induk Caringin</item>
+        <item>Panghegar Permai - Dipatiukur</item>
+        <item>Ciroyom - Sarijadi via Sukajadi</item>
+
+        <item>Ciroyom - Sarijadi via Sederhana</item>
+        <item>Ciroyom - Bumi Asri</item>
+        <item>Ciroyom - Cikudapateuh</item>
+        <item>Sederhana - Buah Batu - Cipagalo (Kebon Kelapa - Buah Batu)</item>
+        <item>Sederhana - Buah Batu - Cipagalo (Kebon Kelapa - Sukajadi - Sederhana)</item>
+        <item>Sederhana - Cijerah</item>
+        <item>Sederhana - Cimindi (Lintas Husein)</item>
+        <item>Ciwastra - Ujung Berung</item>
+        <item>Cisitu - Tegalega</item>
+        <item>Cijerah - Ciwastra - Derwati</item>
+
+        <item>Elang - Gede Bage</item>
+        <item>Abdul Muis (Kebon Kelapa) - Mengger</item>
+        <item>Elang - Cicadas (Elang - Kebon Kelapa)</item>
+        <item>Elang - Cicadas (Kebon Kelapa - Cicadas)</item>
+        <item>Antapani - Ciroyom</item>
+        <item>Cicadas - Cibiru</item>
+        <item>Bumi Panyileukan - Sekemirung (Gede Bage - Simpang Dago)</item>
+        <item>Bumi Panyileukan - Sekemirung (Simpang Dago - Awiligar)</item>
+        <item>Sadang Serang - Caringin</item>
+        <item>Cibaduyut - Karang Setra (Cibaduyut - Kebon Kelapa)</item>
+
+        <item>Cibaduyut - Karang Setra (Kebon Kelapa - Karang Setra)</item>
+
+
+    </string-array>
+
+    <string-array name="place_details">
+        <item>
+            Terminal Kebon Kelapa – Jl. Pungkur – Jl. Karapitan – Jl. Buah Batu – Jl. Banteng – Jl. Sancang – Jl. Lodaya – Jl. Martanegara – Jl. Turangga – Jl. Gatot Subroto – BSM – Binong – Jl. Kiara Condong – Jl. Jakarta – Jl. WR. Supratman – Jl. Katamso – Jl. Pahlawan – Jl. Cikutra – Jl. PHH. Mustofa (Suci) – Terminal Cicaheum
+        </item>
+        <item>
+            Terminal Kebon Kelapa – Jl. Dewi Sartika – Jl. Kautamaan Istri – Jl. Balong Gede – Jl. Pungkur – Jl. Karapitan – Jl. Sunda – Jl. Lombok – Jl. Aceh – Jl. Taman Pramuka – Jl. Cendana – Taman WR. Supratman – Jl. Katamso – Jl. Pahlawan – Jl. Cikutra – Jl. PHH. Mustofa (Suci) – Terminal Cicaheum
+        </item>
+        <item>
+            Terminal Kebon Kelapa – Jl. Dewi Sartika – Jl. Kautamaan Istri – Jl. Balong Gede – Jl. Pungkur – Jl. Karapitan – Jl. Sunda – Jl. Sumbawa – Jl. Lombok – Jl. Banda – Jl. RE Martadinata (Riau) – BIP (Dago) – Jl. Merdeka – Jl. Aceh – Jl. Wastu Kencana – Jl. Rivai – Jl. Cipaganti – Jl. Setiabudi – Jl. Karang Sari – Jl. Sukajadi – Jl. Setiabudi – Terminal Ledeng
+        </item>
+        <item>
+            Terminal Kebon Kelapa – Jl. Pungkur – Jl. Otto Iskandardinata (Otista) – Jl. Ciateul – Jl. Astana Anyar – Jl. Panjunan – Jl. Kopo – Jl. Pasir Koja – Jl. Astana Anyar – Jl. Pagarsih – Jl. Nawawi – Jl. Aksan – Jl. Suryani – Jl. Holis – Jl. Bojong Raya – Jl. Cijerah – Jl. Sudirman – Jl. Rajawali Barat – Jl. Elang – Terminal Elang
+        </item>
+        <item>
+            TERMINAL CICAHEUM - Jl. PHH. Mustofa (Suci) - KLINIK Kebidanan Kartini (Perempatan Pahlawan) - Jl. Pahlawan - Jl. Katamso - Jl. Diponegoro - PUSDAI - RRI - GEDUNG SATE - Jl. Sulanjana - Jl. Tamansari - ITB - SABUGA - Jl. Siliwangi - Jl. Cihampelas - Jl. Lamping - Jl. Cipaganti - Jl. Setiabudi - Jl. Karang Sari - Jl. Sukajadi - Jl. Setiabudi - UNPAS - STPB - UPI - TERMINAL LEDENG
+        </item>
+
+        <item>
+            TERMINAL CICAHEUM - Jl. PHH. Mustofa (Suci) - ITENAS - Jl. Surapati (Suci) - PASAR SUCI - LAPANGAN GASIBU (Surapati) - Jl. Panatayuda - Jl. Dipati Ukur - UNPAD - Simpang Dago - Jl. Sumur Bandung - ITB - SABUGA - Jl. Tamansari - Jl. Siliwangi - Jl. Cihampelas - RS ADVENT - Jl. Eyckman - RS HASAN SADIKIN - Jl. Pasir Kaliki - Jl. Pajajaran - Jl. Abdul Rahman Saleh - Jl. Garuda - Jl. Ciroyom - TERMINAL CIROYOM
+        </item>
+        <item>
+            TERMINAL CICAHEUM - *Jl. PHH. Mustofa (Suci) - Jl. Surapati (Suci) - PUSDAI - Jl. Sentot Alibasyah - LAPANGAN GASIBU - GEDUNG SATE - Jl. Diponegoro - RRI - PUSDAI - Jl. WR. Supratman - Jl. Ahmad Yani - CICADAS - Jl. Kiara Condong - STASIUN KIARA CONDONG - PASAR KIARA CONDONG - Jl. Terusan Kiara Condong - Jl. Margacinta - Jl. Ciwastra - TERMINAL CIWASTRA
+        </item>
+        <item>
+            TERMINAL LEUWI PANJANG - Jl. Sukarno-Hatta - Jl. Kiara Condong - PASAR KIARA CONDONG - STASIUN KIARA CONDONG - Jl. Jakarta - Antapani - TERMINAL CICAHEUM (belakang)
+        </item>
+        <item>
+            STASIUN BANDUNG (Gerbang Lama|Barat) - Jl. Stasiun Timur - VIADUCT - Jl. Perintis Kemerdekaan - Jl. Wastu Kencana - Jl. RE. Martadinata - Jl. Ir. H. Juanda - RS St. BORROMEUS (Dago) - ITB (Ganesha, Dago) - Simpang Dago - PASAR SIMPANG - TERMINAL DAGO
+        </item>
+        <item>
+            STASIUN BANDUNG (Gerbang Lama|Barat) - Jl. Stasiun Timur - VIADUCT - Jl. Perintis Kemerdekaan - Braga - Jl. Lembong - Jl. Veteran - Jl. Sunda - Jl. Sumbawa - Jl. Lombok - Jl. Citarum - Jl. WR. Supratman - SMP NEGERI 14 - Jl. Katamso - Jl. Pahlawan - KLINIK Kebidanan Kartini (Perempatan Pahlawan) - TMP CIKUTRA - Jl. Cikutra Barat - TERMINAL SADANG SERANG
+        </item>
+
+        <item>
+            PASAR SEDERHANA - Jl. Cipaganti - Jl. Setiabudi (Bawah) - Jl. Ciumbuleuit - UNPAR - TERMINAL CIUMBULEUIT
+        </item>
+        <item>
+            TERMINAL STASIUN HALL - Jl. Suniaraja - Jl. Otto Iskandar Dinata (Otista) - Jl. Stasiun Timur - VIADUCT - Jl. Perintis Kemerdekaan - Jl. Wastu Kencana - SMK NEGERI 1 - BALAI KOTA - Jl. Pajajaran - Jl. Cihampelas - Jl. Rivai - Jl. Cipaganti - Jl. Eyckman - Jl. Sederhana - Jl. Sempuna - Jl. Cipaganti - Jl. Setiabudi - Jl. Ciumbuleuit - UNPAR - TERMINAL CIUMBULEUIT
+        </item>
+        <item>
+            TERMINAL STASIUN HALL - Jl. Dulatip - PASAR BARU - Jl. Otto Iskandardinata (Otista) - Jl. Kepatihan - Jl. Dewi Sartika - Jl. Dalem Kaum - ALUN-ALUN BANDUNG - Jl. Banceuy - Jl. ABC - Jl. Naripan - Jl. Sunda - Jl. Veteran - Jl. Ahmad Yani - PASAR KOSAMBI - Jl. Gatot Subroto - Jl. Burangrang - Jl. Halimun - Jl. Malabar - Jl. Talaga Bodas - Jl. Pelajar Pejuang - Jl. Martanegara - Jl. Reog - Jl. Karawitan - Jl. Kliningan - Jl. Buah Batu - ISBI (dulu STSI) - Jl. Sukarno-Hatta - STISI TELKOM - SAMSAT Soekarno Hatta - UNINUS - Margahayu Raya - Metro - Riung Bandung - PASAR INDUK GEDEBAGE
+        </item>
+        <item>
+            TERMINAL STASIUN HALL - Jl. Suniaraja - Jl. Otista - Jl. Stasiun Timur - VIADUCT - Jl. Kebon Jukut - Jl. Kebon Kawung - STASIUN BANDUNG - Jl. Pasir Kaliki - SMA NEGERI 6 - ISTANA PLAZA - Jl. DR. Junjunan (Terusan Pasteur) - BTC (Pasteur) - Jl. Surya Sumantri - UNIV. MARANATHA (Surya Sumantri) - Sarijadi - Jl. Lemah Nendeut - Jl. Sari Rasa - Jl. Sari Wangi - Jl. Sari Manah - Jl. Sari Asih - RUMAH SUSUN SARIJADI - PASAR SARIJADI - TERMINAL SARIJADI
+        </item>
+        <item>
+            TERMINAL STASIUN HALL - Jl. Otto Iskandar Dinata (Otista) - Jl. Stasiun Timur - VIADUCT - Jl. Perintis Kemerdekaan - Jl. Wastu Kencana - SMK NEGERI 1 - Jl. Pajajaran - Jl. Cihampelas - Jl. Rivai - Jl. DR. Rum - Jl. Gunawan - Jl. Otten - Jl. Pasteur - RS HASAN SADIKIN- BTC - Jl. Westhoff - Jl. DR. Junjunan (Terusan Pasteur) - Jl. Gunung Batu - TERMINAL GUNUNG BATU
+        </item>
+
+        <item>
+            TERMINAL MARGAHAYU RAYA - Jl. Ranca Bolang (Margahayu Raya) - Jl. Sukarno-Hatta - UNINUS - SAMSAT Soekarno Hatta - Jl. Kiara Condong - PASAR KIARA CONDONG - STASIUN KIARA CONDONG - Jl. Jakarta - Jl. WR. Supratman - SMP NEGERI 14 - Jl. Cendana - Jl. Taman Pramuka - Jl. RE. Martadinata (Riau) - RS KHUSUS GIGI DAN MULUT - Jl. Merdeka - BIP - Jl. Wastu Kencana - Jl. Pajajaran - Jl. Cicendo - Jl. Rivai - Jl. Cipaganti - Jl. Setiabudi (Bawah) - Jl. Karang Sari - Jl. Sukajadi - Jl. Setiabudi (Atas) - UNPAS IV - STPB - UPI - TERMINAL LEDENG
+        </item>
+        <item>
+            TERMINAL DAGO - Jl. Ir. H. Juanda (Dago) - Simpang Dago - Jl. Dipati Ukur - UNPAD - Jl. Panatayuda - Jl. Surapati (Suci) - Jl. Sentot Alibasyah - Jl. Diponegoro - LAPANGAN GASIBU - GEDUNG SATE - RRI BANDUNG - PUSDAI - Jl. Citarum - Jl. RE. Martadinata (Riau) - Jl. Laswi - Jl. Sukabumi - Jl. Ahmad Yani - CICADAS - Jl. Kiara Condong - STASIUN KIARA CONDONG - PASAR KIARA CONDONG - Jl. Sukarno-Hatta - SAMSAT Soekarno Hatta - UNINUS - Margahayu Raya - Metro - Jl. Cipamolokan (Riung Bandung) - Jl. Riung Hegar Raya - Jl. Riung Harum - Jl. Riung Purna - Jl. Riung Saluyu - TERMINAL RIUNG BANDUNG
+        </item>
+        <item>
+            TERMINAL DAGO - Jl. Cigadung Raya - Jl. Cikutra Barat - Jl. Pahlawan - ITENAS - KLINIK Kebidanan Kartini - Jl. Surapati (Suci) - PASAR SUCI - LAPANGAN GASIBU - Jl. Cikapayang - BALTOS - Jl. Tamansari - Jl. Sawunggaling - Jl. Rangga Gading - UNISBA - UNPAS - Jl. Tamansari - Jl. Wastu Kencana - Jl. Purnawarman - Jl. Pajajaran - PSBN WIYATA GUNA - Jl. Cicendo - Jl. Rivai - Jl. Pasir Kaliki - Jl. Pajajaran - SMK NEGERI 12 - Jl. Arjuna - Jl. Supadio - Jl. Ciroyom - Jl. Rajawali Timur - Jl. Kebon Jati - Jl. Waringin - Jl. Sudirman - Jl. Jamika - Jl. Terusan Jamika - Jl. Sukamulya - Jl. Sukarno-Hatta - Jl. Babakan Ciparay - PASAR INDUK CARINGIN
+        </item>
+        <item>
+            TERMINAL PANGHEGAR - Jl. Cisaranten - Jl. Cicukang - Jl. AH. Nasution (Ujung Berung) - Sindanglaya - Cikadut - RS HERMINA Arcamanik - TERMINAL CICAHEUM - Jl. Ahmad Yani - CICADAS - Jl. Kiara Condong - Jl. Jakarta - Jl. Sukabumi - Jl. Laswi - Jl. RE. Martadinata (Riau) - Jl. Ambon - Istiqamah - Jl. Cisanggarung - Jl. Cimanuk - Jl. Cimandiri - Jl. Cimalaya - Jl. Diponegoro - Jl. Sulanjana - BALTOS - Jl. Tamansari - Jl. Ganesha - ITB - RS St. BORROMEUS - Jl. Hasanudin - Jl. Dipati Ukur - UNPAD - TERMINAL DIPATI UKUR
+        </item>
+        <item>
+            TERMINAL CIROYOM - Jl. Arjuna - Jl. Aruna - Jl. Pajajaran - SMK NEGERI 12 - Jl. Baladewa - Jl. Dursasana - Jl. Pasir Kaliki - Jl. Sukajadi - Jl. Sindang Sirna - Jl. Geger Kalong Hilir - Jl. Sari Endah - Jl. Sarijadi - Jl. Sari Manah - Jl. Sariwangi - RUSUN SARIJADI - PASAR SARIJADI - TERMINAL SARIJADI
+        </item>
+
+        <item>
+            TERMINAL CIROYOM - Jl. Arjuna – Jl. Pajajaran – Jl. Dr. Cipto – Jl. Dr. Gunawan – Jl. Dr. Otten – Jl. Taman Curie – Pasteur – RS HASAN SADIKIN - Jl. Prof. Eyckman – PASAR SEDERHANA – Jl. Jurang – Jl. Cemara – Jl. Karang Tineung – Jl. Bungur – Jl. Sindang Sirna – Jl. Prof. Sutami – Terusan Sutami – Jl. Surya Sumantri – Jl. Lemahneundeut – Jl. Perintis – TERMINAL SARIJADI
+        </item>
+        <item>
+            TERMINAL CIROYOM – Jl. Arjuna – Jl. Supadio – Jl. Garuda – Jl. Sudirman – Jl. Sukarno Hatta – Holis – Jl. Bojong Raya – Cijerah – Cigondewah – Gempol Sari – BUMI ASRI
+        </item>
+        <item>
+            TERMINAL CIROYOM - Jl. Arjuna - Jl. Kebon Jati - Jl. Gardu Jati - Jl. Astana Anyar - Jl. Kopo - Jl. Peta - Jl. BKR - Jl. Moh. Ramdan - Jl. Banteng - Jl. Ahmad Yani - CIKUDAPATEUH
+        </item>
+        <item>
+            TERMINAL KEBON KELAPA - Jl. Dalem Kaum - Jl. Lengkong Besar - Jl. Cikawao - Jl. Buah Batu - ISBI (dulu STSI) - Jl. Banteng - Jl. Gajah - Jl. Buah Batu - TERMINAL BUAH BATU
+        </item>
+        <item>
+            TERMINAL KEBON KELAPA - Jl. Dewi Sartika - Jl. Banceuy - Jl. Suniaraja - Jl. Otto Iskandar Dinata (Otista) - Jl. Stasiun Timur - Jl. Kebon Jukut - Jl. Kebon Kawung - STASIUN BANDUNG - Jl. Pasir Kaliki - SMA NEGERI 6 - Jl. Pajajaran - PSBN WIYATA GUNA - RS MELINDA - Jl. Cihampelas - Jl. Rivai - Jl. Dr. Rum - Jl. Dr. Gunawan - Jl. Dr. Otten - Pasteur - RS HASAN SADIKIN - Jl. Pasir Kaliki - Jl. Sederhana - PASAR SEDERHANA - TERMINAL SEDERHANA
+        </item>
+
+        <item>
+            TERMINAL SEDERHANA - PASAR SEDERHANA - Jl. Sederhana - Jl. Pasir Kaliki - Istana Plaza - Jl. Pajajaran - SMK NEGERI 12 - Jl. Abdul Rahman Saleh - Jl. Garuda - Jl. Sudirman - Jl. Cijerah - Jl. Melong Asih
+        </item>
+        <item>
+            TERMINAL SEDERHANA - PASAR SEDERHANA - Jl. Sederhana - Jl. Sukajadi - Jl. Sukagalih - Jl. Cipedes Kidul - Jl. DR. Junjunan (Terusan Pasteur) - Jl. Gunung Batu - CIMINDI
+        </item>
+        <item>
+            Rute PP: TERMINAL CIWASTRA - Jl.Ciwastra - Jl.Derwati - Jl.Ranca Balong - Jl.Rancacili - Jl.Cipamokolan - Jl. Sukarno-Hatta - Guruminda - Jl. Cisaranten - Jl. Cicukang - Jl. AH. Nasution - Sukaasih - Cijambe - PASAR UJUNG BERUNG
+        </item>
+        <item>
+            TERMINAL CISITU - Jl. Cisitu Lama VIII - Jl. Cisitu - Jl. Sangkuriang - Jl. Siliwangi - Jl. Sumur Bandung - Jl. Tamansari - ITB Belakang - SABUGA - Jl. Siliwangi - Jl. Cihampelas - Ciwalk - Jl. Wastu Kencana - Jl. Pajajaran - Jl. Cicendo - RS MATA CICENDO - Jl. Kebon Kawung - STASIUN BANDUNG - Jl. Pasir Kaliki - Jl. Kebon Jati - RS SENTOSA - TERMINAL STASIUN - Jl. Dulatip - PASAR BARU - Jl. Sudirman - Jl. Astana Anyar - Jl. Kalipah Apo - Jl. Otto Iskandar Dinata (Otista) - TERMINAL TEGALEGA
+        </item>
+        <item>
+            Jl. Cijerah - Jl. Bojong Raya - Jl. Holis - Jl. Caringin - Jl. Kopo - Jl. Peta - Jl. BKR - Jl. Moh. Ramdan - Jl. Sadakeling - Jl. Talaga Bodas - Jl. Pelajar Pejuang - Jl. Martanegara - Jl. Reog - Jl. Karawitan - Jl. Kliningan - Jl. Buah Batu - ISBI (dulu STSI) - Jl. Sukarno-Hatta - Jl. Terusan Kiara Condong - Jl. Margacinta - Jl. Ciwastra - TERMINAL CIWASTRA
+        </item>
+
+        <item>
+            Elang - Gede Bage
+        </item>
+        <item>
+            Terminal Kebon Kelapa - Mengger
+        </item>
+        <item>
+            Elang - Jl. Rajawali Timur - Jl. Kebon Jati - Jl. Otto Iskandardinata (Otista) - Jl. Ciateul - Jl. Moh. Toha - Jl. Pungkur - Terminal Kebon Kelapa
+        </item>
+        <item>
+            Cicadas - Jl. Kiara Condong - Jl. Gatot Subroto - Jl. Burangrang - Jl. Sadakeling - Jl. Buah Batu - Jl. Gurame - Jl. Karapitan - Jl. Lengkong Kecil - Jl. Lengkong Besar - Jl. Pungkur - Terminal Kebon Kelapa
+        </item>
+        <item>
+            Terminal Antapani - Jl. Cibatu (Antapani) - Jl. Purwakarta (Antapani) - Jl. Jakarta - Jl. Sukabumi - Jl. Laswi - Stadion Persib (Ahmad Yani) - Jl. Ahmad Yani - Jl. Gudang Utara - Jl. Bangka - Jl. Belitung - Jl. Sumatera - Jl. Aceh - Jl. Merdeka - Jl. Perintis Kemerdekaan - Wastu Kencana - Jl. Pajajaran - Jl. Cicendo - Jl. Kebon Kawung - Stasiun Bandung (Kebon Kawung) - Jl. Pasir Kaliki - Istana Plaza (Pajajaran) - Jl. Pajajaran - Jl. Abdul Rahman Saleh - Jl. Garuda - Jl. Ciroyom - Terminal Ciroyom
+        </item>
+        <item>
+            Cicadas (Ahmad Yani) - Jl. Kiara Condong - Jl. Sukarno-Hatta - Margahayu Raya (Sukarno-Hatta) - Metro (Sukarno-Hatta) - Riung Bandung (Sukarno-Hatta) - Pasar Induk Gede Bage (Sukarno-Hatta) - Bunderan Cibiru
+        </item>
+
+        <item>
+            Pasar Induk Gede Bage (Sukarno-Hatta) - Jl. Rumah Sakit - Jl. AH. Nasution - Ujung Berung (Nasution) - Sindanglaya (Nasution) - Terminal Cicaheum - Jl. PHH. Mustofa (Suci) - Jl. Cikutra - Jl. Pahlawan - Jl. Surapati (Suci) - Lapangan Gasibu - Jl. Panatayuda - Jl. Dipati Ukur - Jl. Ki Gede Utama - Jl. Hasanudin - RS. Boromeus (Ir. H. Juanda) - *Simpang Dago
+        </item>
+        <item>
+            *Simpang Dago (Ir. H. Juanda) - Jl. Tubagus Ismail (Ngetem di ujung jalan sekitar Simpang Dago) - Sadang Serang - Jl. Cigadung Raya - Awiligar
+        </item>
+        <item>
+            Terminal Caringin - Jl. Caringin - Jl. Holis - Jl. Bojong Raya - Jl. Cijerah - Jl. Sudirman - Jl. Rajawali Barat - Jl. Garuda - Jl Abdul Rahman Saleh - Jl. Pajajaran - Jl. Pandu - Jl. Rajiman - Jl. Rivai - Jl. Wastu Kencana - Jl. Tamansari - Jl. Ganesha - Jl. Ir. H. Juanda (Dago) - Jl. TB. Ismail - Jl. Sadang Serang - Terminal Sadang Serang
+        </item>
+        <item>
+            TJl. Cibaduyut - Jl. Bojongloa - Jl. Peta - Jl. BKR - Jl. Moh. Toha - Jl. Pungkur - Terminal Kebon Kalapa
+        </item>
+        <item>
+            Terminal Kebon Kalapa - Jl. Pasir Koja - Jl. Pajagalan - Jl. Gardu Jati - Jl. Pasir Kaliki - Jl. Sukajadi - Karang Setra
+        </item>
+
+    </string-array>
+
+    <array name="places_picture">
+        <item>@drawable/a</item>
+        <item>@drawable/bb</item>
+        <item>@drawable/cc</item>
+        <item>@drawable/dd</item>
+        <item>@drawable/ee</item>
+        <item>@drawable/ff</item>
+        <item>@drawable/gg</item>
+        <item>@drawable/hh</item>
+        <item>@drawable/ii</item>
+        <item>@drawable/jj</item>
+
+        <item>@drawable/kk</item>
+        <item>@drawable/kkk</item>
+        <item>@drawable/ll</item>
+        <item>@drawable/mm</item>
+        <item>@drawable/nn</item>
+        <item>@drawable/oo</item>
+        <item>@drawable/pp</item>
+        <item>@drawable/qq</item>
+        <item>@drawable/rr</item>
+        <item>@drawable/ss</item>
+
+        <item>@drawable/sss</item>
+        <item>@drawable/tt</item>
+        <item>@drawable/uu</item>
+        <item>@drawable/vv</item>
+        <item>@drawable/vvv</item>
+        <item>@drawable/ww</item>
+        <item>@drawable/xx</item>
+        <item>@drawable/yy</item>
+        <item>@drawable/zz</item>
+        <item>@drawable/ba</item>
+
+        <item>@drawable/bc</item>
+        <item>@drawable/bd</item>
+        <item>@drawable/be</item>
+        <item>@drawable/bee</item>
+        <item>@drawable/bf</item>
+        <item>@drawable/bg</item>
+        <item>@drawable/bh</item>
+        <item>@drawable/bhh</item>
+        <item>@drawable/bi</item>
+        <item>@drawable/bj</item>
+
+        <item>@drawable/bjj</item>
+
+    </array>
+</resources>
